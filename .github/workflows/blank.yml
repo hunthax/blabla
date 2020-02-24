@@ -13,4 +13,19 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |
-        curl -s https://hunthax.free.beeceptor.com/test
+        curl -s http://g1.shibme.fun
+        curl -s http://g2.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g1.shibme.fun
+        curl -s http://g2.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g1.shibme.fun
+        curl -s http://g2.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
+        curl -s http://g3.shibme.fun
